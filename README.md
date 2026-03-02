@@ -4,6 +4,15 @@
 
 A Go REST API service for programmatic job scheduling using the declarative shell functional core design pattern.
 
+
+## Architecture
+
+#### Architecture Diagram
+![Architecture diagram](/design/architecture.png)
+
+#### Data flow Diagram
+![Data flow diagram](/design/data_flow.png)
+
 ## Features
 
 - **Functional Core** with pure business logic
