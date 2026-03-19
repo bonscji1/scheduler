@@ -335,7 +335,7 @@ parameters:
 - description: Image
   name: IMAGE
   required: true
-  value: quay.io/dehort/insights-scheduler
+  value: quay.io/redhat-user-workloads/hcc-integrations-tenant/scheduler/scheduler
 - description: Image tag
   name: IMAGE_TAG
   required: true
